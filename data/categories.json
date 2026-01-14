@@ -1,0 +1,22 @@
+[
+  {
+    "id": "professionalism",
+    "label": "Fachkompetenz",
+    "description": "Fachliche Expertise und Wissen"
+  },
+  {
+    "id": "engagement",
+    "label": "Engagement",
+    "description": "Motivation und Engagement im Unterricht"
+  },
+  {
+    "id": "communication",
+    "label": "Kommunikation",
+    "description": "Verständlichkeit und Kommunikationsfähigkeit"
+  },
+  {
+    "id": "organization",
+    "label": "Organisationsfähigkeit",
+    "description": "Strukturierung und Organisiertheit"
+  }
+]

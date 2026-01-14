@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Herr Müller",
+    "subject": "Mathematik",
+    "votes": {
+      "professionalism": 5,
+      "engagement": 0,
+      "communication": 0,
+      "organization": 0
+    },
+    "totalVotes": 1
+  },
+  {
+    "id": 2,
+    "name": "Frau Schmidt",
+    "subject": "Deutsch",
+    "votes": {
+      "professionalism": 0,
+      "engagement": 0,
+      "communication": 0,
+      "organization": 0
+    },
+    "totalVotes": 0
+  },
+  {
+    "id": 3,
+    "name": "Herr Weber",
+    "subject": "Englisch",
+    "votes": {
+      "professionalism": 0,
+      "engagement": 0,
+      "communication": 0,
+      "organization": 0
+    },
+    "totalVotes": 0
+  }
+]
